@@ -1,3 +1,12 @@
+remove this when starting the pull request
+# v0rtex strategy for Houdini
+
+to quote cheesecakeufo:
+"Easy. Just add the v0rtex files to the project then copy the async wake strategy and rename it to v0rtex.
+Also add the new strategy to the strategy detection method and you should be good."
+-------------------
+
+
 # Houdini (iOS 10-10.3.2 and iOS 11-11.1.2)
 
 by Abraham Masri @cheesecakeufo - exploits by (@i4nbeer)
